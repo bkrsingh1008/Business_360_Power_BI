@@ -7,7 +7,9 @@ AtliQ Hardware has seen significant growth recently and has chosen to prepare Po
 The company distributes computers and accessories through three channels: retailers, direct sales, and distributors. Recently, AltiQ Hardware faced unexpected losses from opening a new store in America, a situation identified through surveys, intuition, and basic Excel analysis. With competitors employing advanced analytics teams to drive their decisions, AltiQ Hardware acknowledges the urgent need to establish its own analytics team. This move is crucial for gaining valuable insights and making data-driven decisions to remain competitive in the industry.
 
 Retailers: Businesses that sell products directly to consumers through physical or online stores. (Stores or websites that sell products directly to people.)
+
 Direct Sales: The company sells products directly to customers, bypassing intermediaries through its own sales channels. (The company sells products straight to customers without middlemen.)
+
 Distributors: Intermediaries who purchase products from the company and resell them to retailers or other businesses. (Middlemen who buy products from the company and sell them to other stores or businesses.)
 
 Tech-Stack Used:
@@ -41,4 +43,14 @@ Key Performance Indicators:
 
 Live Dashboard:
 --------------------------
+
+Data Model:
+-------------------------
+We build the data model in Model View. We import the data from MySQL database using Get Data option available in Power BI desktop.
+![image](https://github.com/user-attachments/assets/fbf6244f-e600-45f8-bd17-cb9bf36aec8d)
+
+
+Report:
+-------------------------
+
    
