@@ -47,7 +47,8 @@ Live Dashboard:
 Data Model:
 -------------------------
 We build the data model in Model View. We import the data from MySQL database using Get Data option available in Power BI desktop.
-![image](https://github.com/user-attachments/assets/fbf6244f-e600-45f8-bd17-cb9bf36aec8d)
+![image](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
+
 
 
 Report:
