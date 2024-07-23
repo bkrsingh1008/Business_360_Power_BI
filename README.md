@@ -12,10 +12,7 @@ Direct Sales: The company sells products directly to customers, bypassing interm
 
 Distributors: Intermediaries who purchase products from the company and resell them to retailers or other businesses. (Middlemen who buy products from the company and sell them to other stores or businesses.)
 
-🛠 Skills
-Ms Excel, Power BI, MySQL, DAX, Power BI Service, Project Charter...
-
-Tech-Stack Used:
+🛠 Tech-Stack Used:
 ---------------------
 1. MS Excel
 2. MySQL
@@ -46,11 +43,14 @@ Key Performance Indicators:
 
 Live Dashboard:
 --------------------------
-https://app.powerbi.com/view?r=eyJrIjoiMWJhZGJhZDEtNDg3ZS00ZDJjLTllNzctNjExYzMxNTRkNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 Links:
+[![Dashboard](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWJhZGJhZDEtNDg3ZS00ZDJjLTllNzctNjExYzMxNTRkNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)
 
 Data Model:
 -------------------------
 We build the data model in Model View. We import the data from MySQL database using Get Data option available in Power BI desktop.
+🔗 Links
 ![image](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
 
 
