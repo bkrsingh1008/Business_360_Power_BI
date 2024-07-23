@@ -30,7 +30,7 @@ Distributors: Intermediaries who purchase products from the company and resell t
 5. Executive View: Offers a high-level overview of key business metrics and strategic insights.
 6. Support View: Evaluates customer support performance and resolution times.
 
-👩‍💻 Key Performance Indicators:
+👩‍💻 Business Glossary:
 ----------------------------
 1. Gross Price
 2. Pre-Invoice Deduction
