@@ -12,6 +12,9 @@ Direct Sales: The company sells products directly to customers, bypassing interm
 
 Distributors: Intermediaries who purchase products from the company and resell them to retailers or other businesses. (Middlemen who buy products from the company and sell them to other stores or businesses.)
 
+🛠 Skills
+Ms Excel, Power BI, MySQL, DAX, Power BI Service, Project Charter...
+
 Tech-Stack Used:
 ---------------------
 1. MS Excel
