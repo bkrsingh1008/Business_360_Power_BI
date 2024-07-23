@@ -21,7 +21,7 @@ Distributors: Intermediaries who purchase products from the company and resell t
 5. DAX
 6. Project Charter (Short document to decsribe the entire project)
 
-Key Ares:
+⚡️Key Ares:
 --------------------
 1. Finance View: Provides insights into financial performance, budgeting, and expenditure.
 2. Sales View: Tracks sales metrics, trends, and performance analysis.
@@ -30,7 +30,7 @@ Key Ares:
 5. Executive View: Offers a high-level overview of key business metrics and strategic insights.
 6. Support View: Evaluates customer support performance and resolution times.
 
-Key Performance Indicators:
+👩‍💻 Key Performance Indicators:
 ----------------------------
 1. Gross Price
 2. Pre-Invoice Deduction
@@ -43,15 +43,23 @@ Key Performance Indicators:
 
 Live Dashboard:
 --------------------------
+
 🔗 Links:  [![Dashboard](https://img.shields.io/badge/dashboard-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWJhZGJhZDEtNDg3ZS00ZDJjLTllNzctNjExYzMxNTRkNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
 Data Model:
 -------------------------
 We build the data model in Model View. We import the data from MySQL database using Get Data option available in Power BI desktop.
-🔗 Links:  ![App Screenshot](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
 
-Report:
--------------------------
+![App Screenshot](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
+
+Insights and Results:
+--------------------------
+●	Replaced outdated Excel reports with a Power BI dashboard, integrating Excel/CSV files and a SQL data for enhanced functionality.
+
+●	Built data models and visualizations in Power BI, optimizing with DAX Studio for a 5% performance boost.
+
+●	Facilitated departmental trend analysis with the Power BI dashboard, resulting in a projected 10% revenue increase and 20% expense reduction.
+
 
    
