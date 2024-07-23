@@ -43,17 +43,13 @@ Key Performance Indicators:
 
 Live Dashboard:
 --------------------------
-🔗 Links:
-[![Dashboard](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWJhZGJhZDEtNDg3ZS00ZDJjLTllNzctNjExYzMxNTRkNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 Links:  [![Dashboard](https://img.shields.io/badge/dashboard-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMWJhZGJhZDEtNDg3ZS00ZDJjLTllNzctNjExYzMxNTRkNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
 Data Model:
 -------------------------
 We build the data model in Model View. We import the data from MySQL database using Get Data option available in Power BI desktop.
-🔗 Links
-![image](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
-
-
+🔗 Links:  ![App Screenshot](https://github.com/user-attachments/assets/7220f1c3-870d-4b71-91c7-a3c8c71d2899)
 
 Report:
 -------------------------
